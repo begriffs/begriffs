@@ -1,3 +1,3 @@
-## My open source has moved
+## Most of my new open source is in another place
 
-Existing projects will stay on GitHub, but new personal projects live on [dev.begriffs.com](https://dev.begriffs.com).
+Many of my new personal projects live on [dev.begriffs.com](https://dev.begriffs.com).
